@@ -60,7 +60,7 @@ python -m ipykernel install --user --name=ds2-coiled-2026
 
 ### Connect to a cluster
 
-You can connect to one of the existing clusters:
+You can connect to one existing clusters, typically:
 
 - ``ds2-highcpu``: 160 vCPUs, 3.75 GB of system memory per vCPU
 - ``ds2-highmem``: 20 vCPUs, 6.5 GB of system memory per vCPU
